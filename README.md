@@ -20,17 +20,12 @@ First exercise in Big Data course
 
 **Q1. Is your change in the mapper or in the reducer?**  In the mapper
 
-**Q2. Please submit your code in GitHub** added as mapper.py
+**Q2. Please submit your code in GitHub** Added as mapper.py
 
 **Exercise 3**
 ------------------------------------------------------------------
-**Q1. Is your change in the mapper or in the reducer?** answer
+**Q1. Is your change in the mapper or in the reducer?** In the reducer
 
-**Q2. Please submit your code in GitHub** answer
+**Q2. Please submit your code in GitHub** Added as reducer.py
 
-**Q3. Print the output of the MapReduce and add to the project.** answer
-
-Note: you should not use external pipes, sort, or filters. All should be done inside the
-mapReduce Python code
-I want to see in the screenshot that includes the command you typed:
-$ > hadoop fs -ls /user/hduser/gutenberg-output
+**Q3. Print the output of the MapReduce and add to the project.** <img width="464" height="53" alt="image" src="https://github.com/user-attachments/assets/927669f5-ab00-4389-8611-fd0a319df8f4" />
