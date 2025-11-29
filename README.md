@@ -18,9 +18,9 @@ First exercise in Big Data course
 **Exercise 2**
 -----------------------------------------------------------
 
-**Q1. Is your change in the mapper or in the reducer?**  answer
+**Q1. Is your change in the mapper or in the reducer?**  In the mapper
 
-**Q2. Please submit your code in GitHub** answer
+**Q2. Please submit your code in GitHub** added as mapper.py
 
 **Exercise 3**
 ------------------------------------------------------------------
